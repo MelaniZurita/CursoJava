@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class Mainclase2 {
     public static void main(String[] args) {
         System.out.println("____________");
     //arrays y strings
